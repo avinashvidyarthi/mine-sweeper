@@ -1,0 +1,25 @@
+.cell-not-visible {
+	background-color: rgb(126, 126, 126);
+}
+
+.cell-visible {
+	background-color: rgb(85, 85, 85);
+}
+
+.slider-color-dark {
+	accent-color: black;
+}
+
+.jumbotron {
+	border-radius: 0px;
+	background-color: rgb(88, 88, 88);
+}
+
+.btn-primary {
+	background-color: rgb(17, 17, 17);
+	border: rgb(0, 0, 0);
+}
+
+.btn-primary:hover {
+	background-color: rgb(0, 0, 0);
+}
